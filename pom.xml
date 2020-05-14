@@ -51,6 +51,7 @@
 		<module>SpringCloud-Stream-Rabbitmq-Consumer-8803</module>
 		<module>SpringCloud-Alibaba-Provider-Payment-9001</module>
     <module>SpringCloud-Alibaba-Provider-Payment-9002</module>
+    <module>SpringCloud-Alibaba-Consumer-Nacos-Order-83</module>
   </modules>
 
 	<!-- 子模块继承之后，提供作用：锁定版本 + 子modlue 不用写groupId和version -->
