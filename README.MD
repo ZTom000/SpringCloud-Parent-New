@@ -20,3 +20,12 @@ SpringCloud Alibaba篇(施工中... P100)
  施工进度：SpringCloud篇(已完工)  
 SpringCloud Alibaba篇(施工中... P101)  
   
+  **05.16.2020 18:00**  
+  
+更新nacos-config-client配置中心:  
+(1).dataid配置  
+(2).Group分组  
+(3).namespace配置  
+ 施工进度：SpringCloud篇(已完工)  
+SpringCloud Alibaba篇(施工中... P102-P105)  
+  
