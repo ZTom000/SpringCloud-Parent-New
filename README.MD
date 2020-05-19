@@ -36,3 +36,10 @@ Linux 分布式nacos环境测试
  施工进度：SpringCloud篇(已完工)  
 SpringCloud Alibaba篇(施工中... P106-P110)  
   
+  **05.19.2020 10:45**  
+  
+更新SpringCloud-Alibaba-Sentinal-Service-8401  
+整合Sentinal框架
+ 施工进度：SpringCloud篇(已完工)  
+SpringCloud Alibaba篇(施工中... P113)  
+  
