@@ -54,6 +54,10 @@
     <module>SpringCloud-Alibaba-Consumer-Nacos-Order-83</module>
     <module>SpringCloud-Alibaba-Config-Nacos-Client3377</module>
     <module>SpringCloud-Alibaba-Sentinal-Service-8401</module>
+    <module>SpringCloud-Allibaba-Provider-Payment-9003</module>
+    <module>SpringCloud-Alibaba-Provider-Payment-9003</module>
+    <module>SpringCloud-Alibaba-Provider-Payment-9004</module>
+    <module>SpringCloud-Alibaba-Consumer-Nacos-Order-84</module>
   </modules>
 
 	<!-- 子模块继承之后，提供作用：锁定版本 + 子modlue 不用写groupId和version -->

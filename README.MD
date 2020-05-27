@@ -49,4 +49,11 @@ SpringCloud Alibaba篇(施工中... P113)
 完成Sentinel流控,降级,热点管理,系统规则测试
  施工进度：SpringCloud篇(已完工)  
 SpringCloud Alibaba篇(施工中... P114-P128)  
+
+  **05.27.2020 09:35**  
+  
+更新SpringCloud-Alibaba-Sentinal-Service-84  
+完成Sentinel完成服务熔点测试以及OpenFeign熔断实验与持久化配置
+ 施工进度：SpringCloud篇(已完工)  
+SpringCloud Alibaba篇(施工中... P129-P138)  
   
